@@ -89,7 +89,7 @@ line-height: normal;
   font-weight: bold;
   margin-bottom: 7px; 
 }
-.contries li {
+.strany li {
   list-style: none;
   display: inline-block;
   background-repeat: no-repeat;
@@ -98,7 +98,7 @@ line-height: normal;
   width: 60px;
   padding-top: 42px;
   }
-.contries ul{
+.strany ul{
   position: absolute;
   right: 20px;
   top:110px;
